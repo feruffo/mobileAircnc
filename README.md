@@ -1,2 +1,2 @@
 # mobileAircnc
-Projeto feito em React Native para estudo, baseado no AirBnb.
+Projeto feito em React Native para estudo, baseado no serviço online Airbnb.
